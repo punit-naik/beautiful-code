@@ -1,4 +1,4 @@
-(defproject beautiful-code/lein-template "1.0.1"
+(defproject beautiful-code/lein-template "1.0.2"
   :description "A very simple leiningen template which includes necessary clojure libraries for writing beautiful clojure code"
   :url "https://github.com/punit-naik/beautiful-code"
   :license {:name "Eclipse Public License"
