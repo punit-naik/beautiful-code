@@ -1,0 +1,29 @@
+# Eclipse
+.classpath
+.project
+.settings
+*.log
+
+# Idea
+.idea
+*.iml
+
+# Maven
+target
+pom.xml
+
+# Scala
+.cache
+lib_managed/
+
+# General
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Lein
+*.lein-repl-history
+
